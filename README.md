@@ -4,8 +4,6 @@
 
 I'm a passionate Data Science student focused on building practical, scalable, and AI-powered applications. I enjoy turning ideas into real-world solutions using Python, JavaScript, SQL, AI/ML, and modern web technologies.
 
-# 💫 About Me:
-# Hi, I'm Allaka Kiran Bala Krishna 👋<br><br>🎓 3rd Year B.Tech Data Science Student | 💻 Developer | 🤖 AI & ML Enthusiast<br><br>I'm a passionate Data Science student focused on building practical, scalable, and AI-powered applications. I enjoy turning ideas into real-world solutions using Python, JavaScript, SQL, AI/ML, and modern web technologies.<br><br>### 🚀 What I Work With<br><br>- 🐍 Python, Java, C, JavaScript<br>- 🌐 HTML, CSS, FastAPI, Flask, Streamlit<br>- 🤖 AI/ML, LLM Integration, Prompt Engineering, Google Gemini<br>- 🗄️ SQL & PostgreSQL<br>- ☁️ AWS, GCP, Vercel, Netlify<br>- 📊 Power BI, Tableau, Excel<br>- 🔐 REST APIs, JWT Authentication, WebSockets<br>- 🛠️ Git, GitHub, Linux & Bash<br><br>### 💡 Featured Projects<br><br>🔹 **NeuroGrid** — Offline-first WebRTC mesh communication platform designed for real-time communication and emergency scenarios.<br><br>🔹 **SwasthyaSethu** — AI-based health monitoring and prediction system focused on intelligent healthcare assistance.<br>### 🌱 Currently Learning<br><br>AI Engineering • Cloud Deployment • Full-Stack Development • Advanced Data Science • System Design<br><br>### 🤝 Let's Connect<br><br>I'm interested in collaborating on AI/ML, Data Science, Full-Stack, and innovative technology projects.
 
 
 ## 🌐 Socials:
